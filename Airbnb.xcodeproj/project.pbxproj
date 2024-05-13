@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4EA0680F2BF1DF6300D61CAA /* DestinationSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA0680E2BF1DF6300D61CAA /* DestinationSearchView.swift */; };
 		4EE290542BEDF23F006EE225 /* AirbnbApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EE290532BEDF23F006EE225 /* AirbnbApp.swift */; };
 		4EE290562BEDF23F006EE225 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EE290552BEDF23F006EE225 /* ContentView.swift */; };
 		4EE290582BEDF242006EE225 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EE290572BEDF242006EE225 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4EA0680E2BF1DF6300D61CAA /* DestinationSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationSearchView.swift; sourceTree = "<group>"; };
 		4EE290502BEDF23F006EE225 /* Airbnb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Airbnb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EE290532BEDF23F006EE225 /* AirbnbApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirbnbApp.swift; sourceTree = "<group>"; };
 		4EE290552BEDF23F006EE225 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 			children = (
 				4EE2906D2BEDF51D006EE225 /* ExploreView.swift */,
 				4EE290712BEF9CCA006EE225 /* SearchAndFilterBar.swift */,
+				4EA0680E2BF1DF6300D61CAA /* DestinationSearchView.swift */,
 			);
 			path = Explore;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EE290772BEFA6EB006EE225 /* ListingImageCarouselView.swift in Sources */,
+				4EA0680F2BF1DF6300D61CAA /* DestinationSearchView.swift in Sources */,
 				4EE290562BEDF23F006EE225 /* ContentView.swift in Sources */,
 				4EE290702BEDF7CA006EE225 /* ListingItemView.swift in Sources */,
 				4EE2906E2BEDF51D006EE225 /* ExploreView.swift in Sources */,
